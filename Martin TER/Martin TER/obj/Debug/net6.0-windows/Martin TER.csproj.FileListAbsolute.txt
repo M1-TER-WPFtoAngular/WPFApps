@@ -1,0 +1,23 @@
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Martin TER.csproj.AssemblyReference.cache
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Martin TER_MarkupCompile.cache
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Martin TER_MarkupCompile.lref
+C:\Users\33616\source\repos\Martin TER\Martin TER\bin\Debug\net6.0-windows\Martin TER.exe
+C:\Users\33616\source\repos\Martin TER\Martin TER\bin\Debug\net6.0-windows\Martin TER.deps.json
+C:\Users\33616\source\repos\Martin TER\Martin TER\bin\Debug\net6.0-windows\Martin TER.runtimeconfig.json
+C:\Users\33616\source\repos\Martin TER\Martin TER\bin\Debug\net6.0-windows\Martin TER.dll
+C:\Users\33616\source\repos\Martin TER\Martin TER\bin\Debug\net6.0-windows\ref\Martin TER.dll
+C:\Users\33616\source\repos\Martin TER\Martin TER\bin\Debug\net6.0-windows\Martin TER.pdb
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Martin TER.g.resources
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Martin TER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Martin TER.AssemblyInfoInputs.cache
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Martin TER.AssemblyInfo.cs
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Martin TER.csproj.CoreCompileInputs.cache
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Martin TER.dll
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\ref\Martin TER.dll
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Martin TER.pdb
+C:\Users\33616\source\repos\Martin TER\Martin TER\obj\Debug\net6.0-windows\Martin TER.genruntimeconfig.cache
