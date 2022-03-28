@@ -35,7 +35,6 @@ namespace Martin_TER
 
 
             Window1 win = new Window1();
-            win.affiche2.Text = message;
             win.Show();
 
 

@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="Window1" Height="450" Width="800">
     <Grid>
-        <TextBlock Text="" HorizontalAlignment="Center" VerticalAlignment="Center" Name="affiche2"/>
+        <TextBlock Text="coucou" HorizontalAlignment="Center" VerticalAlignment="Center" Name="affiche2"/>
     </Grid>
 </Window>
