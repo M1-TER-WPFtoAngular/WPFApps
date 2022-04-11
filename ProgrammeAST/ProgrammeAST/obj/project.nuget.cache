@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "sIXo91MAkQzve+7jhtrL2e2RSoTqqOMlO+fbKzGyzO9h9AIthxQ/VJ4Zov36dc9Sh9U6GthntXZtj2/4mahztg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\33616\\source\\repos\\ProgrammeAST\\ProgrammeAST\\ProgrammeAST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33616\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\microsoft.codeanalysis.common\\4.1.0\\microsoft.codeanalysis.common.4.1.0.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.1.0\\microsoft.codeanalysis.csharp.4.1.0.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\microsoft.codeanalysis.csharp.scripting\\4.1.0\\microsoft.codeanalysis.csharp.scripting.4.1.0.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.1.0\\microsoft.codeanalysis.scripting.common.4.1.0.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
