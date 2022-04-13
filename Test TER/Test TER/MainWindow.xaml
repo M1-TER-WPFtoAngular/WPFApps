@@ -27,16 +27,7 @@
                     </MenuItem.Icon>
                 </MenuItem>
 
-                <!--
-                <MenuItem Header="_Tools">
-                    <MenuItem Header="_Manage users">
-                        <MenuItem.Icon>
-                            <Image Source="/WpfTutorialSamples;component/Images/user.png" />
-                        </MenuItem.Icon>
-                    </MenuItem>
-                    <MenuItem Header="_Show groups" IsCheckable="True" IsChecked="True" />
-                </MenuItem>
-                -->
+
             </Menu>
             <TextBox AcceptsReturn="True" />
         </DockPanel>
