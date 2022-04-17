@@ -11,10 +11,8 @@
         <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" Text="Prenom" VerticalAlignment="Top" Margin="175,21,0,0"/>
         <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" Text="Age" VerticalAlignment="Top" Margin="42,79,0,0" RenderTransformOrigin="0.617,0.378"/>
         <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" Text="Numéro" VerticalAlignment="Top" Margin="173,80,0,0"/>
-        <TextBlock   HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
-        <TextBlock  HorizontalAlignment="Left"  TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
-        <TextBlock  HorizontalAlignment="Left"  TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
-
+        <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Margin="24,133,0,0" RenderTransformOrigin="0.617,0.378" Text="Adresse"></TextBlock>
+        <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Margin="178,133,0,0" RenderTransformOrigin="0.617,0.378" Text="Société"></TextBlock>
 
 
         <TextBox Name="nom" HorizontalAlignment="Left" Margin="70,21,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="85" Height="16" RenderTransformOrigin="0.706,1.128"   />
@@ -23,8 +21,6 @@
         <TextBox x:Name="num" HorizontalAlignment="Left" Margin="222,80,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="85" Height="16" RenderTransformOrigin="0.706,1.128" />
         <TextBox x:Name="adresse" HorizontalAlignment="Left" Margin="71,133,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="85" Height="16" RenderTransformOrigin="0.706,1.128"  />
         <TextBox x:Name="soc" HorizontalAlignment="Left" Margin="222,133,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="85" Height="16" RenderTransformOrigin="0.706,1.128" />
-        <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Margin="24,133,0,0" RenderTransformOrigin="0.617,0.378"><Run Language="fr-fr" Text="Adresse"/></TextBlock>
-        <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Margin="178,133,0,0" RenderTransformOrigin="0.617,0.378"><Run Language="fr-fr" Text="Société"/></TextBlock>
         <Button Content="Valider" HorizontalAlignment="Center" Margin="0,174,0,0" VerticalAlignment="Top"
                 Click="Valider"/>
 

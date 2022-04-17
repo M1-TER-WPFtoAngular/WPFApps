@@ -27,10 +27,6 @@
                     </MenuItem.Icon>
                 </MenuItem>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 2e05ad7665d6d81c86f0f2cc4f5ef3cb3c3cc175
             </Menu>
         </DockPanel>
         <ListView Name="lvUsers" Margin="0,27,0,0" PreviewMouseLeftButtonUp="listView_Click">
@@ -59,16 +55,15 @@
         <TextBox Name="Age" HorizontalAlignment="Left" Margin="95,133,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
         <TextBox Name="Numero" HorizontalAlignment="Left" Margin="395,133,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
         <TextBox Name="Adresse" HorizontalAlignment="Left" Margin="105,206,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
-
+        <TextBox Name="Societe" HorizontalAlignment="Left" Margin="385,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="120" Grid.Column="1"/>
 
 
         <TextBlock HorizontalAlignment="Left" Margin="315,51,0,0" TextWrapping="Wrap" Text="Prenom" VerticalAlignment="Top" Grid.Column="1" RenderTransformOrigin="-1.573,-2.19"/>
         <TextBlock HorizontalAlignment="Left" Margin="53,51,0,0" TextWrapping="Wrap" Text="Nom" VerticalAlignment="Top" Grid.Column="1" RenderTransformOrigin="0.569,0.504"/>
-        <TextBlock HorizontalAlignment="Left" Margin="325,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="1"><Run Language="fr-fr" Text="Numero"/></TextBlock>
-        <TextBlock HorizontalAlignment="Left" Margin="53,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="1"><Run Language="fr-fr" Text="Age"/></TextBlock>
-        <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Margin="45,204,0,0" RenderTransformOrigin="0.617,0.378" Grid.Column="1"><Run Language="fr-fr" Text="Adresse"/></TextBlock>
-        <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Margin="330,207,0,0" RenderTransformOrigin="0.617,0.378" Grid.Column="1"><Run Language="fr-fr" Text="Société"/></TextBlock>
-        <TextBox x:Name="Societe" HorizontalAlignment="Left" Margin="385,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="120" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="325,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="1" Text="Numero"></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="53,133,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.Column="1" Text="Age"></TextBlock>
+        <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Margin="45,204,0,0" RenderTransformOrigin="0.617,0.378" Grid.Column="1" Text="Adresse"></TextBlock>
+        <TextBlock HorizontalAlignment="Left"  TextWrapping="Wrap" VerticalAlignment="Top" Margin="330,207,0,0" RenderTransformOrigin="0.617,0.378" Grid.Column="1" Text="Société"></TextBlock>
 
     </Grid>
 </Window>
