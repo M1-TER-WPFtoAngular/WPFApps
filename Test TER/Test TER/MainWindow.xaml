@@ -27,6 +27,10 @@
                     </MenuItem.Icon>
                 </MenuItem>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2e05ad7665d6d81c86f0f2cc4f5ef3cb3c3cc175
             </Menu>
         </DockPanel>
         <ListView Name="lvUsers" Margin="0,27,0,0" PreviewMouseLeftButtonUp="listView_Click">
