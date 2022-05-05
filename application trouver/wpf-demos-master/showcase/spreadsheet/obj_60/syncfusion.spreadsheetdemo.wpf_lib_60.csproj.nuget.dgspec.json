@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\showcase\\spreadsheet\\syncfusion.spreadsheetdemo.wpf_lib_60.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\showcase\\spreadsheet\\syncfusion.spreadsheetdemo.wpf_lib_60.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\showcase\\spreadsheet\\syncfusion.spreadsheetdemo.wpf_lib_60.csproj",
+        "projectName": "syncfusion.spreadsheetdemo.wpf",
+        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\showcase\\spreadsheet\\syncfusion.spreadsheetdemo.wpf_lib_60.csproj",
+        "packagesPath": "C:\\Users\\33616\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\showcase\\spreadsheet\\obj_60\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\33616\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.19, )"
+            },
+            "Syncfusion.Compression.Base": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.ExcelChartToImageConverter.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfCellGrid.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfChart.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfGridCommon.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfSpreadsheet.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfSpreadsheetHelper.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Tools.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.XlsIO.Wpf": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

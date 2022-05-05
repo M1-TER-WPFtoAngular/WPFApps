@@ -1,0 +1,46 @@
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\Model\PaletteList.xml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\Pdfium\x64\pdfium.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\Pdfium\x86\pdfium.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\Assets\Config\OLAPSample.config
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Adventure_Works_Ext.cub
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Sales DB.cub
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\Assets\Olap\Data\CubeModelTemplates\ReportDefenitionFile.xml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\ReportsTable.sdf
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\Assets\Northwind.sdf
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\Assets\Olap\Data\Sales DB.xls
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\syncfusion.calculatedemos.wpf.deps.json
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\syncfusion.calculatedemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\syncfusion.calculatedemos.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf_lib_60.csproj.AssemblyReference.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AlgebraicExpressions.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AngleForm.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AutoAngleForm.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AutoCalcForm.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\ManualCalcForm.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\MoreComplexForm.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AlgebraicExpressions.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AngleForm.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AutoAngleForm.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\AutoCalcForm.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\CalcQuickDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\ManualCalcForm.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\MoreComplexForm.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\Getting Started\GettingStarted.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\Product Showcase\ArrayCalculationDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf_MarkupCompile.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf_MarkupCompile.lref
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\CalcQuick\CalcQuickDemo\CalcQuickDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\Getting Started\GettingStarted.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\View\Product Showcase\ArrayCalculationDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf.g.resources
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf.Properties.Resources.resources
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf_lib_60.csproj.GenerateResource.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf_lib_60.csproj.CoreCompileInputs.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf_lib_60.csproj.CopyComplete
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\ref\syncfusion.calculatedemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\syncfusion.calculatedemos.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_60\Debug\net6.0-windows\refint\syncfusion.calculatedemos.wpf.dll

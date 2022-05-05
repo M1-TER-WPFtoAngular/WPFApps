@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1s9ojJ9E3IkTS3QCpF8e9ecX/vjam0vx2HETGOVmK0ZLf1zt5+jglg+SwownMPDFF+EYf062b6Q2ojEZEJfjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\showcase\\formula analysis\\syncfusion.formulaanalysis.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33616\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.calculate.base\\20.1.0.47\\syncfusion.calculate.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.grid.wpf\\20.1.0.47\\syncfusion.grid.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.gridcommon.wpf\\20.1.0.47\\syncfusion.gridcommon.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.linq.base\\20.1.0.47\\syncfusion.linq.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfinput.wpf\\20.1.0.47\\syncfusion.sfinput.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfshared.wpf\\20.1.0.47\\syncfusion.sfshared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\20.1.0.47\\syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.materialdarkblue.wpf\\20.1.0.47\\syncfusion.themes.materialdarkblue.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.materiallight.wpf\\20.1.0.47\\syncfusion.themes.materiallight.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.tools.wpf\\20.1.0.47\\syncfusion.tools.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

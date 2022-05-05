@@ -1,0 +1,98 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "syncfusion.unitconverter.wpf/1.0.0": {
+        "dependencies": {
+          "Syncfusion.SfChromelessWindow.WPF": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47",
+          "Syncfusion.Tools.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "syncfusion.unitconverter.wpf.dll": {}
+        }
+      },
+      "Syncfusion.Licensing/20.1.0.47": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "20.1.0.47",
+            "fileVersion": "20.1.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfChromelessWindow.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfChromelessWindow.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Tools.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Tools.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "syncfusion.unitconverter.wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Licensing/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wvtXu+N9seO8rHt18VmOGX9B2/aAzyxKteyDVXJPUBcuLf8PuRppBE9cx3gKeBokvMK03zihC/39xcz4kWdtNA==",
+      "path": "syncfusion.licensing/20.1.0.47",
+      "hashPath": "syncfusion.licensing.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfChromelessWindow.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fEUCSirr+J/wXmR6zT5BKuBQcPJmhQmT0YrflIlr69TKnHz53I+Ng2wicXjiWALCdUmhm8zEbdNBOXdTNMpjrQ==",
+      "path": "syncfusion.sfchromelesswindow.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfchromelesswindow.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VTv2YAoNzYfPXUKBlHTws6iFfTTgppP9ABTYbErZX5EIIu6auRrQxsv6dImQx4T877xLyvxtGsLCAMA8yF5vMw==",
+      "path": "syncfusion.shared.wpf/20.1.0.47",
+      "hashPath": "syncfusion.shared.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Tools.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O4ssjQdCO9R0QOaPoidrL4tgCAn0Pxq8HlEgQftCKTNub0x/qNGOsGRulvpnJAt5iHrGMdOeOKY0trYwXs+Jaw==",
+      "path": "syncfusion.tools.wpf/20.1.0.47",
+      "hashPath": "syncfusion.tools.wpf.20.1.0.47.nupkg.sha512"
+    }
+  }
+}

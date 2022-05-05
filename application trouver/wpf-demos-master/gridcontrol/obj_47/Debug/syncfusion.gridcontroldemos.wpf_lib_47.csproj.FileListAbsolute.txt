@@ -1,0 +1,10 @@
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\gridcontrol\obj_47\Debug\syncfusion.gridcontroldemos.wpf_lib_47.csproj.AssemblyReference.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\gridcontrol\obj_47\Debug\Data\GridControl\Finance.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\gridcontrol\obj_47\Debug\Cell Types\NestedGrid\Themes\Resources.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\gridcontrol\obj_47\Debug\Cell Types\NestedGrid\View\NestedGrid.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\gridcontrol\obj_47\Debug\Performance\ScrollPerformance\View\ScrollPerformance.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\gridcontrol\obj_47\Debug\ExcelLikeFeature\SelectionMarker\View\SelectionMarker.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\gridcontrol\obj_47\Debug\Performance\TraderGridTest\View\TraderGridTest.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\gridcontrol\obj_47\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\gridcontrol\obj_47\Debug\syncfusion.gridcontroldemos.wpf_MarkupCompile.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\gridcontrol\obj_47\Debug\syncfusion.gridcontroldemos.wpf_MarkupCompile.lref

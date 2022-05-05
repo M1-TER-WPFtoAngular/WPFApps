@@ -1,0 +1,237 @@
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Model\PaletteList.xml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Pdfium\x64\pdfium.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Pdfium\x86\pdfium.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Assets\Config\OLAPSample.config
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Adventure_Works_Ext.cub
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Sales DB.cub
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Assets\Olap\Data\CubeModelTemplates\ReportDefenitionFile.xml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\ReportsTable.sdf
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Assets\Northwind.sdf
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Assets\Olap\Data\Sales DB.xls
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Assets\Chart\GOOG.txt
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\Assets\Chart\INDICATOR_GOOG.txt
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\syncfusion.chartdemos.wpf.deps.json
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\syncfusion.chartdemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\syncfusion.chartdemos.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_lib_60.csproj.AssemblyReference.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Resources\ColorModel.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Exporting\ChartView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Annotations\AnnotationInteraction.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Annotations\AnnotationToolTip.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts 3D\AreaSeriesChart3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts 3D\BarChart3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts 3D\ColumnChart3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts 3D\LineSeriesChart3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts 3D\ScatterSeriesChart3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Area.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Bar.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Bubble.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Column.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Line.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\RangeArea.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\RangeColumn.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Scatter.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Spline.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\SplineArea.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\SplineRangeArea.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\StepArea.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\StepLine.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Chart Interactivity\CrossHairBehavior.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Chart Interactivity\CustomTooltip.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Chart Interactivity\SelectionBehavior.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Chart Interactivity\TrackBall.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Chart Interactivity\ZoomPanBehavior.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\DoughnutChart3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\DoughnutSeriesDemo3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\PieChart3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\PieSeriesDemo3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\SemiPieAndDoughnutSeries3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts\DoughnutChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts\PieChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts\StackedDoughnutDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Customization\ColumnSeries.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Customization\CustomBarSeries.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Customization\CustomSeries.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Customization\ScatterSeries.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Customization\SplineSeries.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Data Binding\ChartDataEditing.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Data Binding\DataTableBinding.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Data Binding\MVVMBinding.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Data Editing\ScatterDataEditing.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Data Editing\VisualDataEditing.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\DateTimeRangeNavigator\GettingStarted.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Depth Axis\DepthAxis.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Empty Values\EmptyPointSupport.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Exporting\ChartView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Exporting\ExportChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastBarChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastCandleChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastColumnChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastHiLoChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastHiloOpenCloseChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastLineChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastRangeAreaChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastScatterChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastStackingColumnChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastStepLineChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\Axis.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\AxisConfiguration.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\ChartAutoScrolling.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\FlexibleAxis.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\LabelsInersection.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\MultiLevelLabels.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\ScaleBreak.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Financial Charts\CandleChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Financial Charts\HiLoChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Financial Charts\HiLoOpenCloseChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Funnel and Pyramid Chart\FunnelChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Funnel and Pyramid Chart\PyramidChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Legends\MultipleLegends.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Line Studies\ErrorBarSeries.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Line Studies\Indicator.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Line Studies\Trendline.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Other Charts\BoxAndWhiskerChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Other Charts\Histogram.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Other Charts\Waterfall.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Palattes\Palettes.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Performance\MultipleSeries.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Performance\Performance.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Polar and Radar Chart\PolarChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Polar and Radar Chart\RadarChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Real Time Chart\RealTimeChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Serialization\DeserializedChartContainer.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Serialization\Serialization.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Serialization\SerializedChartContainer.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 100\StackedColumn.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 100\StackingArea.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 100\StackingBar.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 100\StackingLine.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 3D 100\StackingBar100Chart3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 3D 100\StackingColumn100Chart3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 3D\StackingBarChart3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 3D\StackingColumnChart3D.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts\Grouping.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts\StackingAreaChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts\StackingBarChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts\StackingColumnChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts\StackingLineChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Strip Lines\StripLineDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Vertical Chart\VerticalChart.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Watermark\WaterMark.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_MarkupCompile.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_MarkupCompile.lref
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Resources\CustomTemplate.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Annotations\AnnotationInteraction.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Annotations\AnnotationToolTip.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts 3D\AreaSeriesChart3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts 3D\BarChart3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts 3D\ColumnChart3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts 3D\LineSeriesChart3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts 3D\ScatterSeriesChart3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Area.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Bar.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Bubble.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Column.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Line.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\RangeArea.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\RangeColumn.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Scatter.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\Spline.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\SplineArea.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\SplineRangeArea.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\StepArea.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Basic Charts\StepLine.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Chart Interactivity\CrossHairBehavior.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Chart Interactivity\CustomTooltip.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Chart Interactivity\SelectionBehavior.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Chart Interactivity\TrackBall.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Chart Interactivity\ZoomPanBehavior.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\DoughnutChart3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\DoughnutSeriesDemo3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\PieChart3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\PieSeriesDemo3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts 3D\SemiPieAndDoughnutSeries3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts\DoughnutChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts\PieChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Circular Charts\StackedDoughnutDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Customization\ColumnSeries.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Customization\CustomBarSeries.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Customization\CustomSeries.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Customization\ScatterSeries.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Customization\SplineSeries.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Data Binding\ChartDataEditing.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Data Binding\DataTableBinding.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Data Binding\MVVMBinding.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Data Editing\ScatterDataEditing.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Data Editing\VisualDataEditing.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\DateTimeRangeNavigator\GettingStarted.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Depth Axis\DepthAxis.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Empty Values\EmptyPointSupport.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Exporting\ExportChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastBarChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastCandleChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastColumnChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastHiLoChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastHiloOpenCloseChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastLineChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastRangeAreaChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastScatterChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastStackingColumnChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Fast Charts\FastStepLineChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\Axis.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\AxisConfiguration.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\ChartAutoScrolling.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\FlexibleAxis.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\LabelsInersection.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\MultiLevelLabels.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Features\ScaleBreak.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Financial Charts\CandleChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Financial Charts\HiLoChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Financial Charts\HiLoOpenCloseChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Funnel and Pyramid Chart\FunnelChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Funnel and Pyramid Chart\PyramidChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Legends\MultipleLegends.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Line Studies\ErrorBarSeries.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Line Studies\Indicator.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Line Studies\Trendline.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Other Charts\BoxAndWhiskerChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Other Charts\Histogram.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Other Charts\Waterfall.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Palattes\Palettes.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Performance\MultipleSeries.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Performance\Performance.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Polar and Radar Chart\PolarChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Polar and Radar Chart\RadarChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Real Time Chart\RealTimeChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Serialization\DeserializedChartContainer.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Serialization\Serialization.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Serialization\SerializedChartContainer.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 100\StackedColumn.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 100\StackingArea.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 100\StackingBar.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 100\StackingLine.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 3D 100\StackingBar100Chart3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 3D 100\StackingColumn100Chart3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 3D\StackingBarChart3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts 3D\StackingColumnChart3D.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts\Grouping.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts\StackingAreaChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts\StackingBarChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts\StackingColumnChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Stacked Charts\StackingLineChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Strip Lines\StripLineDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Vertical Chart\VerticalChart.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\Views\Watermark\WaterMark.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf.g.resources
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf.Properties.Resources.resources
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_lib_60.csproj.GenerateResource.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_lib_60.csproj.CoreCompileInputs.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf_lib_60.csproj.CopyComplete
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\ref\syncfusion.chartdemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\syncfusion.chartdemos.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\chart\obj_60\Debug\net6.0-windows\refint\syncfusion.chartdemos.wpf.dll

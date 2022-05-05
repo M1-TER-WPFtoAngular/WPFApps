@@ -1,0 +1,20 @@
+﻿syncfusion.mapdemos.wpf
+
+
+library
+C#
+.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\map\obj_60\Debug\net6.0-windows\
+syncfusion.mapdemos.wpf
+none
+false
+TRACE;NET50;DEBUG;NET;NET6_0;NETCOREAPP
+
+9-762109888
+
+32-1482682486
+224-556896967
+Views\BubbleVisualization.xaml;Views\DataLabels.xaml;Views\ElectionResultDemo.xaml;Views\GettingStarted.xaml;Views\HeatMap.xaml;Views\MapPoints.xaml;Views\MultiLayer.xaml;Views\OpenStreetMaps.xaml;Views\ShapeSelection.xaml;
+
+True
+

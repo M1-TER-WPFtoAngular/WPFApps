@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjyzNxeXq191wIcBqVE1r96EriYnhtcWmZMqMDYj4ULh3wHINwqWEg6AKzUl59Fmk0Br65MRVl4c+EmqlpOfkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\showcase\\spreadsheet\\syncfusion.spreadsheetdemo.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33616\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.compression.base\\20.1.0.47\\syncfusion.compression.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.excelcharttoimageconverter.wpf\\20.1.0.47\\syncfusion.excelcharttoimageconverter.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfcellgrid.wpf\\20.1.0.47\\syncfusion.sfcellgrid.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfchart.wpf\\20.1.0.47\\syncfusion.sfchart.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfgridcommon.wpf\\20.1.0.47\\syncfusion.sfgridcommon.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\20.1.0.47\\syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfspreadsheet.wpf\\20.1.0.47\\syncfusion.sfspreadsheet.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfspreadsheethelper.wpf\\20.1.0.47\\syncfusion.sfspreadsheethelper.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019white.wpf\\20.1.0.47\\syncfusion.themes.office2019white.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.tools.wpf\\20.1.0.47\\syncfusion.tools.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.xlsio.wpf\\20.1.0.47\\syncfusion.xlsio.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

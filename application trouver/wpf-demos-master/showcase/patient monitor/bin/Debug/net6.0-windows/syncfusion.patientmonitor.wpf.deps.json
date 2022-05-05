@@ -1,0 +1,189 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "syncfusion.patientmonitor.wpf/1.0.0": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.19",
+          "Syncfusion.Data.WPF": "20.1.0.47",
+          "Syncfusion.SfChart.WPF": "20.1.0.47",
+          "Syncfusion.SfGrid.WPF": "20.1.0.47",
+          "Syncfusion.SfShared.WPF": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47",
+          "Syncfusion.Themes.MaterialLight.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "syncfusion.patientmonitor.wpf.dll": {}
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.19.35512"
+          }
+        }
+      },
+      "Syncfusion.Data.WPF/20.1.0.47": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Data.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.1.0.47": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "20.1.0.47",
+            "fileVersion": "20.1.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfChart.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfChart.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfGrid.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Data.WPF": "20.1.0.47",
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfGrid.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfShared.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfShared.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfSkinManager.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfSkinManager.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.MaterialLight.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.MaterialLight.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "syncfusion.patientmonitor.wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5sPWkbqImc2t1aQwIfJcKsUo7tOg1Tr8+6xVzZJB56Nzt4u9NlpcLofgdX/aRYpPKdWDA3U23Akw1KQzU5e82g==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.19",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512"
+    },
+    "Syncfusion.Data.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5OsIWQtk47ho+XRW1C8TjPo6C9VZiRbX77MdvwlpfjJ12oDjDEABoWEU9pwVwAfp6ZjImy+6p3dcecy+AGPIyw==",
+      "path": "syncfusion.data.wpf/20.1.0.47",
+      "hashPath": "syncfusion.data.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wvtXu+N9seO8rHt18VmOGX9B2/aAzyxKteyDVXJPUBcuLf8PuRppBE9cx3gKeBokvMK03zihC/39xcz4kWdtNA==",
+      "path": "syncfusion.licensing/20.1.0.47",
+      "hashPath": "syncfusion.licensing.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfChart.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SkZdfy4usMhDvtgMOr+OvLuscU86Z2mDNvW/5Xw4RiQghXaxp1RFM90RXWu5BM37o+SE/Qy4ze0J4ty+eVB7Rw==",
+      "path": "syncfusion.sfchart.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfchart.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfGrid.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ri/12klVIHSsO/dpxtAP69DDZ5G80Eur8A6vk8SnF12jXknNCYUCocSkdptRJPdgZs8HnAOrvsfx3UyPgUILBg==",
+      "path": "syncfusion.sfgrid.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfgrid.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfShared.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-al6S8FnHSvtwGrYWBuCp4cEx9VNk6yt1BA2+RdrSqkcCPDw5e9x3qDPsnJFypEaexDMnt/rFfdYdhtl4RiaGDw==",
+      "path": "syncfusion.sfshared.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfshared.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfSkinManager.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kKtNrAWOo4lDZ8PWFiii6AJvTn/4CKht9SO2MhyfQO37gzptkzLykTXZ3DCy9fiOlzWLh8w8t4vZYKp6EHFUKA==",
+      "path": "syncfusion.sfskinmanager.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VTv2YAoNzYfPXUKBlHTws6iFfTTgppP9ABTYbErZX5EIIu6auRrQxsv6dImQx4T877xLyvxtGsLCAMA8yF5vMw==",
+      "path": "syncfusion.shared.wpf/20.1.0.47",
+      "hashPath": "syncfusion.shared.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.MaterialLight.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5Q8YIEZgNWKo51HXWlFnO/VbUH+FX4bXcC3JgTbq2aepVP75FdiWBjN0brfElLpBZxYfUFrRpNBtBbvrwcahIA==",
+      "path": "syncfusion.themes.materiallight.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.materiallight.wpf.20.1.0.47.nupkg.sha512"
+    }
+  }
+}

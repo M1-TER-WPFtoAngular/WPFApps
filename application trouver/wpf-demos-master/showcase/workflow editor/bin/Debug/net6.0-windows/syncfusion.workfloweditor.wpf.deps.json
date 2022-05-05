@@ -1,0 +1,158 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "syncfusion.workfloweditor.wpf/1.0.0": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfBusyIndicator.WPF": "20.1.0.47",
+          "Syncfusion.SfColorPalette.WPF": "20.1.0.47",
+          "Syncfusion.SfDiagram.WPF": "20.1.0.47",
+          "Syncfusion.SfInput.WPF": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "syncfusion.workfloweditor.wpf.dll": {}
+        }
+      },
+      "Syncfusion.Licensing/20.1.0.47": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "20.1.0.47",
+            "fileVersion": "20.1.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfBusyIndicator.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfBusyIndicator.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfColorPalette.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfRadialMenu.WPF": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfColorPalette.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfDiagram.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfDiagram.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfInput.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfInput.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfRadialMenu.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfRadialMenu.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "syncfusion.workfloweditor.wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Licensing/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wvtXu+N9seO8rHt18VmOGX9B2/aAzyxKteyDVXJPUBcuLf8PuRppBE9cx3gKeBokvMK03zihC/39xcz4kWdtNA==",
+      "path": "syncfusion.licensing/20.1.0.47",
+      "hashPath": "syncfusion.licensing.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfBusyIndicator.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H77lnB5nujBWdoEm1nwbw8/GSJiA2jg9IKB1eA7DmenlwHDteLe0cITMA5lfic8RiVOt1HQnB8ztT40KSBl3nQ==",
+      "path": "syncfusion.sfbusyindicator.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfbusyindicator.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfColorPalette.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yCSRcXV8DUvYqRE9LfjxxdJONG/JqeJ5NMGXNXbchWrfrzbMWIDLegmjyHp0uTgFhr00fcP4GINaI9GJubLdLw==",
+      "path": "syncfusion.sfcolorpalette.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfcolorpalette.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfDiagram.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hgG6dqD9Uwkm0JrFWybXOcQ6PXl/Z4GSQrn1PbV488rRcL9DqrTGa9HuFOV9Hwem8Dqm9lWgNioCdTm3IpjnUQ==",
+      "path": "syncfusion.sfdiagram.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfdiagram.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfInput.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MNNQx+XSt22SfVRX166G7y0ZL+M3tP2qjJJX7sHvM27DtLoCq9IzfzMzR6fjSndGoEFVq9rHg73OAXMzjAJ6cg==",
+      "path": "syncfusion.sfinput.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfinput.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfRadialMenu.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QWgnpdGQ3VRkY82DoyTq2/HxNuaFUxbqa4mjbpFZhmF+mJOizSOYu/m1r9LzkFyhQtKLhnbBCNRx3c56dQenhQ==",
+      "path": "syncfusion.sfradialmenu.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfradialmenu.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VTv2YAoNzYfPXUKBlHTws6iFfTTgppP9ABTYbErZX5EIIu6auRrQxsv6dImQx4T877xLyvxtGsLCAMA8yF5vMw==",
+      "path": "syncfusion.shared.wpf/20.1.0.47",
+      "hashPath": "syncfusion.shared.wpf.20.1.0.47.nupkg.sha512"
+    }
+  }
+}

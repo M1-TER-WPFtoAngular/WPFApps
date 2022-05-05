@@ -1,0 +1,14 @@
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\syncfusion.calculatedemos.wpf_lib_45.csproj.AssemblyReference.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\AlgebraicExpressions.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\AngleForm.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\AutoAngleForm.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\AutoCalcForm.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\ManualCalcForm.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\MoreComplexForm.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\AlgebraicExpressions.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\AngleForm.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\AutoAngleForm.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\AutoCalcForm.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\ManualCalcForm.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\View\CalcQuick\CalcQuickDemo\MoreComplexForm.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\syncfusion.calculatedemos.wpf_MarkupCompile.cache

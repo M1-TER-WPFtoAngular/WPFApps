@@ -1,0 +1,20 @@
+﻿syncfusion.treeviewdemos.wpf
+
+
+library
+C#
+.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\treeview\obj_60\Debug\net6.0-windows\
+syncfusion.treeviewdemos.wpf
+none
+false
+TRACE;NET50;DEBUG;NET;NET6_0;NETCOREAPP
+
+14-2096110108
+
+47-1280946038
+229-1625050788
+Views\AutoFitContentDemo.xaml;Views\CheckedTreeViewDemo.xaml;Views\DragAndDropDemo.xaml;Views\DragDropBetweenTreeViewAndDataGridDemo.xaml;Views\DragDropBetweenTreeViewAndListViewDemo.xaml;Views\DragDropBetweenTreeViewAndTreeGridDemo.xaml;Views\EditingDemo.xaml;Views\FilteringDemo.xaml;Views\GettingStartedDemo.xaml;Views\LoadOnDemandDemo.xaml;Views\NodeWithImageDemo.xaml;Views\PerformanceDemo.xaml;Views\SelectionDemo.xaml;Views\UnboundMode.xaml;
+
+False
+

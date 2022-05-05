@@ -1,0 +1,6 @@
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\editor\obj_45\Debug\syncfusion.editordemos.wpf_lib_45.csproj.AssemblyReference.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\editor\obj_45\Debug\Assets\CalenderEdit\CalendarEditTemplate.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\editor\obj_45\Debug\RegistrationForm\RegistrationFormDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\editor\obj_45\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\editor\obj_45\Debug\syncfusion.editordemos.wpf_MarkupCompile.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\editor\obj_45\Debug\syncfusion.editordemos.wpf_MarkupCompile.lref

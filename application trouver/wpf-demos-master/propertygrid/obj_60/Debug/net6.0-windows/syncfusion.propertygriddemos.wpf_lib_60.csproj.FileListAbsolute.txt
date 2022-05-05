@@ -1,0 +1,65 @@
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Model\PaletteList.xml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Pdfium\x64\pdfium.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Pdfium\x86\pdfium.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\Config\OLAPSample.config
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Adventure_Works_Ext.cub
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Sales DB.cub
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\Olap\Data\CubeModelTemplates\ReportDefenitionFile.xml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\ReportsTable.sdf
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\Northwind.sdf
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\Olap\Data\Sales DB.xls
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\BuiltinEditorSource.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\NestedSource.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\GettingStartedSource.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\CollectionEditorViewModelSource.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\BuiltInMaskSource.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\CustomEditorViewModelSource.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\IntUpDownEditorSource.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\CustomEditorModelSource.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\CollectionEditorModelSource.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\ConfigureAtRuntimeSource.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\AutoGeneratingPropertyGridItemSource.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\XAMLSource.xaml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\BrushCategoryEditorSource.xaml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\Assets\PropertyGrid\FontCategoryEditorSource.xaml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf.deps.json
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf_lib_60.csproj.AssemblyReference.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Build-In Mask Editor\Build-InMaskEditorDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Built-in Editor\BuiltInEditorDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Category Editor\CategoryEditorDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Collection Editor\CollectionEditorDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Configure at Compiletime\ConfigureAtCompiletimeDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Configure at Runtime\ConfigureAtRuntimeDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Custom Editor\CustomEditorDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Custom Editor\ImageBrowser.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Getting Started\GettingStartedDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Nested and ReadOnly Support\NestedAndReadOnlySupportDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\PropertyDefinition\PropertyDefinitionViewDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf_MarkupCompile.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf_MarkupCompile.lref
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Build-In Mask Editor\Build-InMaskEditorDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Built-in Editor\BuiltInEditorDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Category Editor\CategoryEditorDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Collection Editor\CollectionEditorDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Configure at Compiletime\ConfigureAtCompiletimeDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Configure at Runtime\ConfigureAtRuntimeDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Custom Editor\CustomEditorDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Custom Editor\ImageBrowser.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Getting Started\GettingStartedDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\Nested and ReadOnly Support\NestedAndReadOnlySupportDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\PropertyDefinition\PropertyDefinitionViewDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf.g.resources
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf.Properties.Resources.resources
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf_lib_60.csproj.GenerateResource.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf_lib_60.csproj.CoreCompileInputs.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf_lib_60.csproj.CopyComplete
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\refint\syncfusion.propertygriddemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\syncfusion.propertygriddemos.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\ref\syncfusion.propertygriddemos.wpf.dll

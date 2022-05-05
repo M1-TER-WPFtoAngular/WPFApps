@@ -1,0 +1,20 @@
+﻿syncfusion.propertygriddemos.wpf
+
+
+library
+C#
+.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\propertygrid\obj_60\Debug\net6.0-windows\
+syncfusion.propertygriddemos.wpf
+none
+false
+TRACE;NET50;DEBUG;NET;NET6_0;NETCOREAPP
+
+11-1136896963
+14275187968
+502088564368
+2271884217576
+Build-In Mask Editor\Build-InMaskEditorDemo.xaml;Built-in Editor\BuiltInEditorDemo.xaml;Category Editor\CategoryEditorDemo.xaml;Collection Editor\CollectionEditorDemo.xaml;Configure at Compiletime\ConfigureAtCompiletimeDemo.xaml;Configure at Runtime\ConfigureAtRuntimeDemo.xaml;Custom Editor\CustomEditorDemo.xaml;Custom Editor\ImageBrowser.xaml;Getting Started\GettingStartedDemo.xaml;Nested and ReadOnly Support\NestedAndReadOnlySupportDemo.xaml;PropertyDefinition\PropertyDefinitionViewDemo.xaml;
+
+False
+

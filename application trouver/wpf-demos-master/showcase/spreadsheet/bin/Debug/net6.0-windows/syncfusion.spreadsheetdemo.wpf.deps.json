@@ -1,0 +1,304 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "syncfusion.spreadsheetdemo.wpf/1.0.0": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.19",
+          "Syncfusion.Compression.Base": "20.1.0.47",
+          "Syncfusion.ExcelChartToImageConverter.WPF": "20.1.0.47",
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfCellGrid.WPF": "20.1.0.47",
+          "Syncfusion.SfChart.WPF": "20.1.0.47",
+          "Syncfusion.SfGridCommon.WPF": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47",
+          "Syncfusion.SfSpreadsheet.WPF": "20.1.0.47",
+          "Syncfusion.SfSpreadsheetHelper.WPF": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019White.WPF": "20.1.0.47",
+          "Syncfusion.Tools.WPF": "20.1.0.47",
+          "Syncfusion.XlsIO.Wpf": "20.1.0.47"
+        },
+        "runtime": {
+          "syncfusion.spreadsheetdemo.wpf.dll": {}
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.19.35512"
+          }
+        }
+      },
+      "Syncfusion.Compression.Base/20.1.0.47": {
+        "runtime": {
+          "lib/net5.0/Syncfusion.Compression.Base.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.ExcelChartToImageConverter.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "20.1.0.47",
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfChart.WPF": "20.1.0.47",
+          "Syncfusion.XlsIO.Wpf": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.ExcelChartToImageConverter.Wpf.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.1.0.47": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "20.1.0.47",
+            "fileVersion": "20.1.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfCellGrid.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfGridCommon.WPF": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47",
+          "Syncfusion.XlsIO.Wpf": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfCellGrid.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfChart.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfChart.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfGridCommon.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfGridCommon.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfSkinManager.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfSkinManager.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfSpreadsheet.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "20.1.0.47",
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfCellGrid.WPF": "20.1.0.47",
+          "Syncfusion.SfGridCommon.WPF": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47",
+          "Syncfusion.Tools.WPF": "20.1.0.47",
+          "Syncfusion.XlsIO.Wpf": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfSpreadsheet.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfSpreadsheetHelper.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.ExcelChartToImageConverter.WPF": "20.1.0.47",
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfCellGrid.WPF": "20.1.0.47",
+          "Syncfusion.SfChart.WPF": "20.1.0.47",
+          "Syncfusion.SfGridCommon.WPF": "20.1.0.47",
+          "Syncfusion.SfSpreadsheet.WPF": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47",
+          "Syncfusion.XlsIO.Wpf": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfSpreadsheetHelper.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.Office2019White.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.Office2019White.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Tools.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Tools.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.XlsIO.Wpf/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Compression.Base": "20.1.0.47",
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.XlsIO.Base.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "syncfusion.spreadsheetdemo.wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5sPWkbqImc2t1aQwIfJcKsUo7tOg1Tr8+6xVzZJB56Nzt4u9NlpcLofgdX/aRYpPKdWDA3U23Akw1KQzU5e82g==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.19",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512"
+    },
+    "Syncfusion.Compression.Base/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4+GvSxEhzcBrhb1EcLTrI8cARVaYvMDeFRIZxy6cqkfXW2ZE6hP5GDCud95CUMGiNG+jGC2x9fvsq4lw/Ablpw==",
+      "path": "syncfusion.compression.base/20.1.0.47",
+      "hashPath": "syncfusion.compression.base.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.ExcelChartToImageConverter.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5jcSdoS0H5D0alVab+BnZEq2XGTFmKMQ8GsO1hVuwPwpIjRoLcDjpm5Q4R5I7leTfbSkf8QAXXZMlBj9SQdJjg==",
+      "path": "syncfusion.excelcharttoimageconverter.wpf/20.1.0.47",
+      "hashPath": "syncfusion.excelcharttoimageconverter.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wvtXu+N9seO8rHt18VmOGX9B2/aAzyxKteyDVXJPUBcuLf8PuRppBE9cx3gKeBokvMK03zihC/39xcz4kWdtNA==",
+      "path": "syncfusion.licensing/20.1.0.47",
+      "hashPath": "syncfusion.licensing.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfCellGrid.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V+MCKEW4AlS65BiJsjqqSDYjFUtkYMvJGUeQHKsGxlHG1iBa4DD9ZcJqvf6tjdQFE6ySpfySNSj4R46mJ6FMEQ==",
+      "path": "syncfusion.sfcellgrid.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfcellgrid.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfChart.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SkZdfy4usMhDvtgMOr+OvLuscU86Z2mDNvW/5Xw4RiQghXaxp1RFM90RXWu5BM37o+SE/Qy4ze0J4ty+eVB7Rw==",
+      "path": "syncfusion.sfchart.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfchart.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfGridCommon.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WwsJd48vMSFENRaGpli31FCKeYPqQ3gksQkzms1t1TIbzL2+breyQGHm2jhdwEeYLabn6kapGjK+IvHNt+tcTw==",
+      "path": "syncfusion.sfgridcommon.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfgridcommon.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfSkinManager.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kKtNrAWOo4lDZ8PWFiii6AJvTn/4CKht9SO2MhyfQO37gzptkzLykTXZ3DCy9fiOlzWLh8w8t4vZYKp6EHFUKA==",
+      "path": "syncfusion.sfskinmanager.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfSpreadsheet.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fyVjLfpDyUsa3CtuCUUyXmgw0ELo3jMOrQn6Pip49kvWS0TPW8KMXJzYfjxT2hdItXBoGWq7r1sU8LA4j3im4g==",
+      "path": "syncfusion.sfspreadsheet.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfspreadsheet.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfSpreadsheetHelper.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SSJe6ljMUlEzAbOaaGQhmPRu9pXwiGy6+h0SaWCyuHA/4YldPYONIlYayzRKkT+X1pPt63llfKRblRF0KBBIoQ==",
+      "path": "syncfusion.sfspreadsheethelper.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfspreadsheethelper.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VTv2YAoNzYfPXUKBlHTws6iFfTTgppP9ABTYbErZX5EIIu6auRrQxsv6dImQx4T877xLyvxtGsLCAMA8yF5vMw==",
+      "path": "syncfusion.shared.wpf/20.1.0.47",
+      "hashPath": "syncfusion.shared.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.Office2019White.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YSFlho+JciuhiSuo44VpBi1zZzNtQkd5Hh7feQyTIzUfIi5c/Oz4bpOCCgGRxMNgLh6IvWE8LgccIJ/3oP6Oqg==",
+      "path": "syncfusion.themes.office2019white.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.office2019white.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Tools.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O4ssjQdCO9R0QOaPoidrL4tgCAn0Pxq8HlEgQftCKTNub0x/qNGOsGRulvpnJAt5iHrGMdOeOKY0trYwXs+Jaw==",
+      "path": "syncfusion.tools.wpf/20.1.0.47",
+      "hashPath": "syncfusion.tools.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.XlsIO.Wpf/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cuB5v1Wf6Uk27r4L7eT81X7d4lad+dyHU+M1umlx+KLSSemhtpFblWZESkQqjT49x85fvBqBCwceGJDyFxirvg==",
+      "path": "syncfusion.xlsio.wpf/20.1.0.47",
+      "hashPath": "syncfusion.xlsio.wpf.20.1.0.47.nupkg.sha512"
+    }
+  }
+}

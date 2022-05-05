@@ -1,0 +1,444 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "syncfusion.barcodedemos.wpf/1.0.0": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfBusyIndicator.WPF": "20.1.0.47",
+          "Syncfusion.SfInput.WPF": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47",
+          "Syncfusion.Themes.FluentDark.WPF": "20.1.0.47",
+          "Syncfusion.Themes.FluentLight.WPF": "20.1.0.47",
+          "Syncfusion.Themes.MaterialDark.WPF": "20.1.0.47",
+          "Syncfusion.Themes.MaterialDarkBlue.WPF": "20.1.0.47",
+          "Syncfusion.Themes.MaterialLight.WPF": "20.1.0.47",
+          "Syncfusion.Themes.MaterialLightBlue.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019Black.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019Colorful.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019DarkGray.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019HighContrast.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019HighContrastWhite.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019White.WPF": "20.1.0.47",
+          "Syncfusion.Themes.SystemTheme.WPF": "20.1.0.47",
+          "syncfusion.barcodedemos.wpf": "1.0.0",
+          "syncfusion.demoscommon.wpf": "1.0.0"
+        },
+        "runtime": {
+          "syncfusion.barcodedemos.wpf.dll": {}
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.19.35512"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.1.0.47": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "20.1.0.47",
+            "fileVersion": "20.1.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfBarcode.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfBarcode.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfBusyIndicator.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfBusyIndicator.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfInput.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfInput.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.SfSkinManager.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfSkinManager.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.FluentDark.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.FluentDark.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.FluentLight.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.FluentLight.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.MaterialDark.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.MaterialDark.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.MaterialDarkBlue.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.MaterialDarkBlue.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.MaterialLight.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.MaterialLight.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.MaterialLightBlue.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.MaterialLightBlue.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.Office2019Black.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.Office2019Black.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.Office2019Colorful.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.Office2019Colorful.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.Office2019DarkGray.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.Office2019DarkGray.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.Office2019HighContrast.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.Office2019HighContrast.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.Office2019HighContrastWhite.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.Office2019HighContrastWhite.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.Office2019White.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.Office2019White.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "Syncfusion.Themes.SystemTheme.WPF/20.1.0.47": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.SystemTheme.WPF.dll": {
+            "assemblyVersion": "20.1500.0.47",
+            "fileVersion": "20.1500.0.47"
+          }
+        }
+      },
+      "syncfusion.demoscommon.wpf/1.0.0": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.19",
+          "Syncfusion.Licensing": "20.1.0.47",
+          "Syncfusion.SfBusyIndicator.WPF": "20.1.0.47",
+          "Syncfusion.SfInput.WPF": "20.1.0.47",
+          "Syncfusion.SfSkinManager.WPF": "20.1.0.47",
+          "Syncfusion.Shared.WPF": "20.1.0.47",
+          "Syncfusion.Themes.FluentDark.WPF": "20.1.0.47",
+          "Syncfusion.Themes.FluentLight.WPF": "20.1.0.47",
+          "Syncfusion.Themes.MaterialDark.WPF": "20.1.0.47",
+          "Syncfusion.Themes.MaterialDarkBlue.WPF": "20.1.0.47",
+          "Syncfusion.Themes.MaterialLight.WPF": "20.1.0.47",
+          "Syncfusion.Themes.MaterialLightBlue.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019Black.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019Colorful.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019DarkGray.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019HighContrast.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019HighContrastWhite.WPF": "20.1.0.47",
+          "Syncfusion.Themes.Office2019White.WPF": "20.1.0.47",
+          "Syncfusion.Themes.SystemTheme.WPF": "20.1.0.47"
+        },
+        "runtime": {
+          "syncfusion.demoscommon.wpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "syncfusion.barcodedemos.wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5sPWkbqImc2t1aQwIfJcKsUo7tOg1Tr8+6xVzZJB56Nzt4u9NlpcLofgdX/aRYpPKdWDA3U23Akw1KQzU5e82g==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.19",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wvtXu+N9seO8rHt18VmOGX9B2/aAzyxKteyDVXJPUBcuLf8PuRppBE9cx3gKeBokvMK03zihC/39xcz4kWdtNA==",
+      "path": "syncfusion.licensing/20.1.0.47",
+      "hashPath": "syncfusion.licensing.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfBarcode.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pyCvIqBYnI2c/YMNZEgezJESIUHyPEl8pBmPng9NV6QOX7WRDFzub6kv9+++lAxuJt8YVZezlfFO1827zi9tag==",
+      "path": "syncfusion.sfbarcode.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfbarcode.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfBusyIndicator.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-H77lnB5nujBWdoEm1nwbw8/GSJiA2jg9IKB1eA7DmenlwHDteLe0cITMA5lfic8RiVOt1HQnB8ztT40KSBl3nQ==",
+      "path": "syncfusion.sfbusyindicator.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfbusyindicator.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfInput.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MNNQx+XSt22SfVRX166G7y0ZL+M3tP2qjJJX7sHvM27DtLoCq9IzfzMzR6fjSndGoEFVq9rHg73OAXMzjAJ6cg==",
+      "path": "syncfusion.sfinput.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfinput.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.SfSkinManager.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kKtNrAWOo4lDZ8PWFiii6AJvTn/4CKht9SO2MhyfQO37gzptkzLykTXZ3DCy9fiOlzWLh8w8t4vZYKp6EHFUKA==",
+      "path": "syncfusion.sfskinmanager.wpf/20.1.0.47",
+      "hashPath": "syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VTv2YAoNzYfPXUKBlHTws6iFfTTgppP9ABTYbErZX5EIIu6auRrQxsv6dImQx4T877xLyvxtGsLCAMA8yF5vMw==",
+      "path": "syncfusion.shared.wpf/20.1.0.47",
+      "hashPath": "syncfusion.shared.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.FluentDark.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MZiDmv2XBE8RS//oVju8xaR+wB+fhL0vlNRE7nHFMzqr76Cue2MZn0pPi1Ckht68i8zgBkUWmc9vBO1zPpkw6g==",
+      "path": "syncfusion.themes.fluentdark.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.fluentdark.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.FluentLight.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ddEgtpgK8FIH7vfjgJpzJO1sSrruKpKMRQGjuxW19LS3AKD8S8Nc0AYkgm7TaCq9zhnOSdoK4WqPaP6AzdFmKQ==",
+      "path": "syncfusion.themes.fluentlight.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.fluentlight.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.MaterialDark.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+13FT7kpdESlJ84FJ3QK06rkpSP5JbS5Ik9u6em/nCLZgm4lPxzkWrrPdzk1XMVL6P2KrMys+mlr3yXYvySiWA==",
+      "path": "syncfusion.themes.materialdark.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.materialdark.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.MaterialDarkBlue.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-35qWOWTAL6D2nanOU8IUDC6er74CL4fIrBUYfO8fAG6tm+x3nSlEZtAT+EPQM7nzcp9+LXi2y6C2QQ1H7WNMww==",
+      "path": "syncfusion.themes.materialdarkblue.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.materialdarkblue.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.MaterialLight.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5Q8YIEZgNWKo51HXWlFnO/VbUH+FX4bXcC3JgTbq2aepVP75FdiWBjN0brfElLpBZxYfUFrRpNBtBbvrwcahIA==",
+      "path": "syncfusion.themes.materiallight.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.materiallight.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.MaterialLightBlue.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TXzXFeZ7OU6Bc7HF1ISfI/rCM5ssyNl80XrN/VAgSakF6Uju980K/QeMstSpquElQHftUt5lamV2fbBS6sdkug==",
+      "path": "syncfusion.themes.materiallightblue.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.materiallightblue.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.Office2019Black.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G+ejWku/3cej0PSYfJsLpgvgVEFv7BCOuQ5WfgC3cF+8z1ymlgajx2gN8PZiNieOIsp77xi+dU8WKvC0KnjYfw==",
+      "path": "syncfusion.themes.office2019black.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.office2019black.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.Office2019Colorful.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P88YTEf0GsLr188tWxbmf2W3GMzg/atBIUDENh5cs2Wp5e/8Hf9+2qasBs1CNGkiEKZ6uKjPW6EesaVgqPOUaw==",
+      "path": "syncfusion.themes.office2019colorful.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.office2019colorful.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.Office2019DarkGray.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HpodPu0mle2oaOjcA+nwJQQ7MIesAscYqIMxAm0Q8zxrHsRsuVH4deBxFSfyY11tT5D9yFZMpWdqSvHq1/N0cA==",
+      "path": "syncfusion.themes.office2019darkgray.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.office2019darkgray.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.Office2019HighContrast.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S6ZFdGUNpaCSqb3TnxATwzUpG1e6h+sInUKdriy0ecXNmB2rFCAjBshoixDaMK8coDn53xV4iUrzU0DfnBgMOg==",
+      "path": "syncfusion.themes.office2019highcontrast.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.office2019highcontrast.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.Office2019HighContrastWhite.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-llG1GhPIvhyJ41VtC0fn5hLSkMSOqRF+GvY56wW+d2K4f10vtKXW3vqXDNEKzocHHWmHaZXJy7jlO2YTLypOkg==",
+      "path": "syncfusion.themes.office2019highcontrastwhite.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.office2019highcontrastwhite.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.Office2019White.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YSFlho+JciuhiSuo44VpBi1zZzNtQkd5Hh7feQyTIzUfIi5c/Oz4bpOCCgGRxMNgLh6IvWE8LgccIJ/3oP6Oqg==",
+      "path": "syncfusion.themes.office2019white.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.office2019white.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "Syncfusion.Themes.SystemTheme.WPF/20.1.0.47": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZV3cmiPSc8o9vJFExNpQa78jDUSR2Qz2xsiAyt92WQoFFXLkB4Yq8V8crjMejJO6YlGBjcMJF38/Kq/4os+XsA==",
+      "path": "syncfusion.themes.systemtheme.wpf/20.1.0.47",
+      "hashPath": "syncfusion.themes.systemtheme.wpf.20.1.0.47.nupkg.sha512"
+    },
+    "syncfusion.demoscommon.wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

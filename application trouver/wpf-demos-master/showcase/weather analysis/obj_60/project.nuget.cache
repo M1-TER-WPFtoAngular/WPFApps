@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5elTn/etLlEgyr+UiSBi8ysLwbEL/9HOSpIjGLqsWyxDRA8S2XnMaXGTOjkyUF40gX/CE2ByjZF4VcO9BwCAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\showcase\\weather analysis\\syncfusion.weatheranalysis.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.data.wpf\\20.1.0.47\\syncfusion.data.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.gridcommon.wpf\\20.1.0.47\\syncfusion.gridcommon.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.linq.base\\20.1.0.47\\syncfusion.linq.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfchart.wpf\\20.1.0.47\\syncfusion.sfchart.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfgrid.wpf\\20.1.0.47\\syncfusion.sfgrid.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\20.1.0.47\\syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.fluentlight.wpf\\20.1.0.47\\syncfusion.themes.fluentlight.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

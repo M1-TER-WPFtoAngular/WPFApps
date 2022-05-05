@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c01d5eb-7834-4b8f-8f43-286f2da0165e": {
+      "ProjectGuid": "0c01d5eb-7834-4b8f-8f43-286f2da0165e",
+      "DisplayName": "syncfusion.calculatedemos.wpf_lib_60",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

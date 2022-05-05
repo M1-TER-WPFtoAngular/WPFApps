@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "22wlAs66uANV87oiX4DrBw5boZSD4bNTNLQUq3C4UDwJxIt/MCAG6B5EDLTbUwPCgbwYFor4GulvXD5o6CZWXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\showcase\\stockanalysis\\syncfusion.stockanalysisdemo.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33616\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.data.wpf\\20.1.0.47\\syncfusion.data.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.propertygrid.wpf\\20.1.0.47\\syncfusion.propertygrid.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfchart.wpf\\20.1.0.47\\syncfusion.sfchart.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfgrid.wpf\\20.1.0.47\\syncfusion.sfgrid.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfinput.wpf\\20.1.0.47\\syncfusion.sfinput.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\20.1.0.47\\syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.shared.mvvm.wpf\\20.1.0.47\\syncfusion.shared.mvvm.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019colorful.wpf\\20.1.0.47\\syncfusion.themes.office2019colorful.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.tools.wpf\\20.1.0.47\\syncfusion.tools.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,121 @@
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\Model\PaletteList.xml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\Pdfium\x64\pdfium.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\Pdfium\x86\pdfium.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\Assets\Config\OLAPSample.config
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Adventure_Works_Ext.cub
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\Sales DB.cub
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\Assets\Olap\Data\CubeModelTemplates\ReportDefenitionFile.xml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\Assets\Olap\Data\OfflineCube\ReportsTable.sdf
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\Assets\Northwind.sdf
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\Assets\Olap\Data\Sales DB.xls
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\syncfusion.navigationdemos.wpf.deps.json
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\syncfusion.navigationdemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\syncfusion.navigationdemos.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\bin\Debug\net6.0-windows\syncfusion.demoscommon.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_lib_60.csproj.AssemblyReference.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\DragDrop.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\ContactsView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\NotesView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\TaskView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\Views\ChartView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\Views\GridView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\Views\ToolbarView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\DrawerContentView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Accordion\DataBinding.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Accordion\GettingStarted.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Assets\Menu\Icon.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\DataBinding.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\DragDrop.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\GettingStarted.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\Outlook.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\ContactsView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\MailView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\NotesView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\TaskView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Hierarchical Navigator\HierarchyNavigatorDemosView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\GettingStarted.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\MenuMerging.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\Views\ChartView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\Views\GridView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\Views\MDIView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\Views\MenuView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\Views\ToolbarView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage1.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage2.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage3.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage4.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage5.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage6.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage7.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SampleSettingsPage.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\DisplayMode.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\DrawerContentView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\FooterItems.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\Hierarchical.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\HierarchicalCollection.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\NavigationDrawerDataBining.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\NavigationDrawerDemosView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\NavigationDrawerView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\RadialMenu\View\RadialMenuDemo.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\AutoScroll\AutoScroll.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\Getting Started\TabControlExt.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\Getting Started\TabWeather.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\Lazy Loading\LazyLoading.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\Lazy Loading\TimeConsumingView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\MultiLine TabItem\MultiLineTabItem.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Task Bar\TaskBarDemosView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\ToolBar\ToolBarDemosView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Tree Navigator\TreeNavigatorDemosView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Wizard Control\WizardDemosView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_MarkupCompile.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_MarkupCompile.lref
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Accordion\DataBinding.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Accordion\GettingStarted.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Assets\Menu\Icon.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\DataBinding.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\GettingStarted.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\Outlook.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Group Bar\Views\MailView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Hierarchical Navigator\HierarchyNavigatorDemosView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\GettingStarted.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\MenuMerging.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\Views\MDIView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Menu\Views\MenuView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage1.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage2.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage3.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage4.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage5.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage6.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SamplePage7.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\SamplePages\SampleSettingsPage.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\DisplayMode.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\FooterItems.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\Hierarchical.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\HierarchicalCollection.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\NavigationDrawerDataBining.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\NavigationDrawerDemosView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\NavigationDrawer\Views\NavigationDrawerView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\RadialMenu\View\RadialMenuDemo.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\AutoScroll\AutoScroll.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\Getting Started\TabControlExt.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\Getting Started\TabWeather.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\Lazy Loading\LazyLoading.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\Lazy Loading\TimeConsumingView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\TabControlExt\View\MultiLine TabItem\MultiLineTabItem.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Task Bar\TaskBarDemosView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\ToolBar\ToolBarDemosView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Tree Navigator\TreeNavigatorDemosView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\Wizard Control\WizardDemosView.baml
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf.g.resources
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf.Properties.Resources.resources
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_lib_60.csproj.GenerateResource.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_lib_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_lib_60.csproj.CoreCompileInputs.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf_lib_60.csproj.CopyComplete
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\refint\syncfusion.navigationdemos.wpf.dll
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\syncfusion.navigationdemos.wpf.pdb
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\navigation\obj_60\Debug\net6.0-windows\ref\syncfusion.navigationdemos.wpf.dll

@@ -1,0 +1,20 @@
+﻿syncfusion.syntaxeditordemos.wpf
+
+
+library
+C#
+.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\syntaxeditor\obj_60\Debug\net6.0-windows\
+syncfusion.syntaxeditordemos.wpf
+none
+false
+TRACE;NET50;DEBUG;NET;NET6_0;NETCOREAPP
+
+12-1772524890
+20-221566434
+32-1929235885
+2261045334903
+Views\ContextPrompt.xaml;Views\CSharpEditor.xaml;Views\Custom Intellisense\PropertiesWindow.xaml;Views\CustomIntellisense.xaml;Views\CustomLanguage.xaml;Views\GettingStarted.xaml;Views\IntellisenseEditor.xaml;Views\MultilevelIntellisense.xaml;Views\SQLEditor.xaml;Views\SyntaxHighlighting.xaml;Views\VisualBasicEditor.xaml;Views\XMLAndXAMLEditor.xaml;
+
+True
+

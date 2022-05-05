@@ -1,0 +1,7 @@
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\syncfusion.calculatedemos.wpf_45.csproj.AssemblyReference.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\syncfusion.calculatedemos.wpf_45.csproj.SuggestedBindingRedirects.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\App.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\syncfusion.calculatedemos.wpfapplication_MarkupCompile.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\syncfusion.calculatedemos.wpf.Properties.Resources.resources
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\syncfusion.calculatedemos.wpf_45.csproj.GenerateResource.cache
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\calculate\obj_45\Debug\syncfusion.calculatedemos.wpf_45.csproj.CoreCompileInputs.cache

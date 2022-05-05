@@ -1,0 +1,20 @@
+﻿syncfusion.workfloweditor.wpf
+
+
+library
+C#
+.cs
+C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\showcase\workflow editor\obj_60\Debug\net6.0-windows\
+syncfusion.workfloweditor.wpf
+none
+false
+TRACE;NET50;DEBUG;NET;NET6_0;NETCOREAPP
+
+61423606380
+
+14-208084863
+2101485088317
+Template\ProcessNodeEditorTemplate.xaml;Views\DiagramFrontPage.xaml;Views\ProcessAutomationDiagram.xaml;Views\PropertyEditor.xaml;Views\ValueEditor.xaml;Views\WorkFlowEditorDemo.xaml;
+
+False
+
