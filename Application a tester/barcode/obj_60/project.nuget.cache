@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "JpKbAXY7hrjCajZLnRNuiEyU3lV6ELL3Were5aIWpun/e13d231BnlqWEf8E2FnVbX9gHyqkPoCwxFKQeVfZ1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33616\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfbarcode.wpf\\20.1.0.47\\syncfusion.sfbarcode.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfbusyindicator.wpf\\20.1.0.47\\syncfusion.sfbusyindicator.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfinput.wpf\\20.1.0.47\\syncfusion.sfinput.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\20.1.0.47\\syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.fluentdark.wpf\\20.1.0.47\\syncfusion.themes.fluentdark.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.fluentlight.wpf\\20.1.0.47\\syncfusion.themes.fluentlight.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.materialdark.wpf\\20.1.0.47\\syncfusion.themes.materialdark.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.materialdarkblue.wpf\\20.1.0.47\\syncfusion.themes.materialdarkblue.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.materiallight.wpf\\20.1.0.47\\syncfusion.themes.materiallight.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.materiallightblue.wpf\\20.1.0.47\\syncfusion.themes.materiallightblue.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019black.wpf\\20.1.0.47\\syncfusion.themes.office2019black.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019colorful.wpf\\20.1.0.47\\syncfusion.themes.office2019colorful.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019darkgray.wpf\\20.1.0.47\\syncfusion.themes.office2019darkgray.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019highcontrast.wpf\\20.1.0.47\\syncfusion.themes.office2019highcontrast.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019highcontrastwhite.wpf\\20.1.0.47\\syncfusion.themes.office2019highcontrastwhite.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019white.wpf\\20.1.0.47\\syncfusion.themes.office2019white.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.systemtheme.wpf\\20.1.0.47\\syncfusion.themes.systemtheme.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

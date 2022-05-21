@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "il5ViPm4PbMRN46jpIHvUr/0+QmUyeeaDej0lTx7je5wJP8TPERhtap6vCJwigtHjBO+wSQFuLo5gyi4MW9mdA==",
+  "dgSpecHash": "UMqr6JGuFKYfnKZg8hS1dZdoLHOz4iu9FbruEQIICHZGj1LsYiAwYVwhstdEJNrhmzrwxkJ/g8jNzEaKmrrvPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
+  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\33616\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
     "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfbusyindicator.wpf\\20.1.0.47\\syncfusion.sfbusyindicator.wpf.20.1.0.47.nupkg.sha512",

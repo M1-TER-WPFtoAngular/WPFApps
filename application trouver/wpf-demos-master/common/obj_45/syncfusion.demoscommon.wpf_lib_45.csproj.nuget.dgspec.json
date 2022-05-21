@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj": {}
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj": {}
   },
   "projects": {
-    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj": {
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
-        "projectName": "syncfusion.demoscommon.wpf",
-        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
+        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
+        "projectName": "syncfusion.demoscommon.wpf_lib_45",
+        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
         "packagesPath": "C:\\Users\\33616\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\obj_45\\",
+        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\obj_45\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -38,31 +38,7 @@
               "target": "Package",
               "version": "[20.1.0.47, )"
             },
-            "Syncfusion.Licensing": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Licensing": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
             "Syncfusion.SfBusyIndicator.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.SfBusyIndicator.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.SfBusyIndicator.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.SfInput.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.SfInput.WPF": {
               "target": "Package",
               "version": "[20.1.0.47, )"
             },
@@ -74,31 +50,7 @@
               "target": "Package",
               "version": "[20.1.0.47, )"
             },
-            "Syncfusion.SfSkinManager.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.SfSkinManager.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
             "Syncfusion.Shared.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Shared.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Shared.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.FluentDark.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.FluentDark.WPF": {
               "target": "Package",
               "version": "[20.1.0.47, )"
             },
@@ -110,31 +62,7 @@
               "target": "Package",
               "version": "[20.1.0.47, )"
             },
-            "Syncfusion.Themes.FluentLight.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.FluentLight.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
             "Syncfusion.Themes.MaterialDark.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.MaterialDark.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.MaterialDark.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
               "target": "Package",
               "version": "[20.1.0.47, )"
             },
@@ -146,31 +74,7 @@
               "target": "Package",
               "version": "[20.1.0.47, )"
             },
-            "Syncfusion.Themes.MaterialLight.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.MaterialLight.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
             "Syncfusion.Themes.MaterialLightBlue.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.MaterialLightBlue.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.MaterialLightBlue.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.Office2019Black.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.Office2019Black.WPF": {
               "target": "Package",
               "version": "[20.1.0.47, )"
             },
@@ -182,31 +86,7 @@
               "target": "Package",
               "version": "[20.1.0.47, )"
             },
-            "Syncfusion.Themes.Office2019Colorful.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.Office2019Colorful.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
             "Syncfusion.Themes.Office2019DarkGray.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.Office2019DarkGray.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.Office2019DarkGray.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.Office2019HighContrast.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.Office2019HighContrast.WPF": {
               "target": "Package",
               "version": "[20.1.0.47, )"
             },
@@ -218,31 +98,7 @@
               "target": "Package",
               "version": "[20.1.0.47, )"
             },
-            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
             "Syncfusion.Themes.Office2019White.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.Office2019White.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.Office2019White.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.SystemTheme.WPF": {
-              "target": "Package",
-              "version": "[20.1.0.47, )"
-            },
-            "Syncfusion.Themes.SystemTheme.WPF": {
               "target": "Package",
               "version": "[20.1.0.47, )"
             },

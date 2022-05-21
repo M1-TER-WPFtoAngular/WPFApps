@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+txcyuLdRKI3b4OdYMtMibH4NVMAfuIhNLcV9y2L9W27CsCI3Ksr/gKJ/a84CNNYFSCKjmYGAJN6dhMBAFBjKg==",
+  "dgSpecHash": "ZvvC5Ddo9bppn0gaea8jUzSVKZ80RhiDBH/uXFit10R5TzEsvqQaLe0yYooQIaVLgsTJC/Bma8zhUGOzCtLbxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj",
+  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\33616\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
     "C:\\Users\\33616\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",

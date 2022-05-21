@@ -1,0 +1,23 @@
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Test TER.csproj.AssemblyReference.cache
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Test TER_MarkupCompile.cache
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Test TER_MarkupCompile.lref
+C:\Users\33616\source\repos\Test TER\Test TER\bin\Debug\net6.0-windows\Test TER.exe
+C:\Users\33616\source\repos\Test TER\Test TER\bin\Debug\net6.0-windows\Test TER.deps.json
+C:\Users\33616\source\repos\Test TER\Test TER\bin\Debug\net6.0-windows\Test TER.runtimeconfig.json
+C:\Users\33616\source\repos\Test TER\Test TER\bin\Debug\net6.0-windows\Test TER.dll
+C:\Users\33616\source\repos\Test TER\Test TER\bin\Debug\net6.0-windows\ref\Test TER.dll
+C:\Users\33616\source\repos\Test TER\Test TER\bin\Debug\net6.0-windows\Test TER.pdb
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Test TER.g.resources
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Test TER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Test TER.AssemblyInfoInputs.cache
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Test TER.AssemblyInfo.cs
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Test TER.csproj.CoreCompileInputs.cache
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Test TER.dll
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\ref\Test TER.dll
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Test TER.pdb
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Test TER.genruntimeconfig.cache
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\33616\source\repos\Test TER\Test TER\obj\Debug\net6.0-windows\Window1.baml

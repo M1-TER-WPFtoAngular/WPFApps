@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YP6k1gOvlMdidxvjA1E6e8jxyF3iSnPWaoUlTkoF+UvSESwHiEyl80NzX9wybtJxDGWyKK4AkHimAea23ABYKQ==",
+  "dgSpecHash": "wZxnee1vbtCkbQElLsO7isJbY8VNmZp1NIjUWuxE1747AjFla4YHC4FYYb8QpOGTzr65xn3L+zQM1h1Pe9dkjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj",
+  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\33616\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
     "C:\\Users\\33616\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",

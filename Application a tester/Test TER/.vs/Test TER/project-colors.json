@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be0eb634-0073-47ca-b6fb-a15c7e4abd0d": {
+      "ProjectGuid": "be0eb634-0073-47ca-b6fb-a15c7e4abd0d",
+      "DisplayName": "Test TER",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

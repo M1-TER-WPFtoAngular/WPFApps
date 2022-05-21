@@ -1489,11 +1489,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
-      "projectName": "syncfusion.demoscommon.wpf",
-      "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
+      "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
+      "projectName": "syncfusion.demoscommon.wpf_lib_45",
+      "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_45.csproj",
       "packagesPath": "C:\\Users\\33616\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\obj_45\\",
+      "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\obj_45\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

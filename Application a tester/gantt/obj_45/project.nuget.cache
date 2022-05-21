@@ -1,0 +1,70 @@
+{
+  "version": 2,
+  "dgSpecHash": "amHB5S2wuqYmJRfvdAMvoZCT9/PQrKOzDaFCVsAnxQw9TNlrJb1NM0VQIUjCyv3H9xupaA80SnF9BVdEos9XxQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\gantt\\syncfusion.ganttdemos.wpf_lib_45.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.gantt.wpf\\20.1.0.47\\syncfusion.gantt.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.grid.wpf\\20.1.0.47\\syncfusion.grid.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.gridcommon.wpf\\20.1.0.47\\syncfusion.gridcommon.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.licensing\\20.1.0.47\\syncfusion.licensing.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.linq.base\\20.1.0.47\\syncfusion.linq.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.projio.base\\20.1.0.47\\syncfusion.projio.base.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfbusyindicator.wpf\\20.1.0.47\\syncfusion.sfbusyindicator.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfchart.wpf\\20.1.0.47\\syncfusion.sfchart.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfinput.wpf\\20.1.0.47\\syncfusion.sfinput.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\20.1.0.47\\syncfusion.sfskinmanager.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.shared.wpf\\20.1.0.47\\syncfusion.shared.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.fluentdark.wpf\\20.1.0.47\\syncfusion.themes.fluentdark.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.fluentlight.wpf\\20.1.0.47\\syncfusion.themes.fluentlight.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.materialdark.wpf\\20.1.0.47\\syncfusion.themes.materialdark.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.materialdarkblue.wpf\\20.1.0.47\\syncfusion.themes.materialdarkblue.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.materiallight.wpf\\20.1.0.47\\syncfusion.themes.materiallight.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.materiallightblue.wpf\\20.1.0.47\\syncfusion.themes.materiallightblue.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019black.wpf\\20.1.0.47\\syncfusion.themes.office2019black.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019colorful.wpf\\20.1.0.47\\syncfusion.themes.office2019colorful.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019darkgray.wpf\\20.1.0.47\\syncfusion.themes.office2019darkgray.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019highcontrast.wpf\\20.1.0.47\\syncfusion.themes.office2019highcontrast.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019highcontrastwhite.wpf\\20.1.0.47\\syncfusion.themes.office2019highcontrastwhite.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.office2019white.wpf\\20.1.0.47\\syncfusion.themes.office2019white.wpf.20.1.0.47.nupkg.sha512",
+    "C:\\Users\\33616\\.nuget\\packages\\syncfusion.themes.systemtheme.wpf\\20.1.0.47\\syncfusion.themes.systemtheme.wpf.20.1.0.47.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project syncfusion.demoscommon.wpf_lib_45 is not compatible with net45 (.NETFramework,Version=v4.5). Project syncfusion.demoscommon.wpf_lib_45 supports: net48 (.NETFramework,Version=v4.8)",
+      "libraryId": "syncfusion.demoscommon.wpf_lib_45",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project syncfusion.demoscommon.wpf_lib_45 is not compatible with net45 (.NETFramework,Version=v4.5) / win. Project syncfusion.demoscommon.wpf_lib_45 supports: net48 (.NETFramework,Version=v4.8)",
+      "libraryId": "syncfusion.demoscommon.wpf_lib_45",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5/win"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project syncfusion.demoscommon.wpf_lib_45 is not compatible with net45 (.NETFramework,Version=v4.5) / win-x64. Project syncfusion.demoscommon.wpf_lib_45 supports: net48 (.NETFramework,Version=v4.8)",
+      "libraryId": "syncfusion.demoscommon.wpf_lib_45",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5/win-x64"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project syncfusion.demoscommon.wpf_lib_45 is not compatible with net45 (.NETFramework,Version=v4.5) / win-x86. Project syncfusion.demoscommon.wpf_lib_45 supports: net48 (.NETFramework,Version=v4.8)",
+      "libraryId": "syncfusion.demoscommon.wpf_lib_45",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.5/win-x86"
+      ]
+    }
+  ]
+}

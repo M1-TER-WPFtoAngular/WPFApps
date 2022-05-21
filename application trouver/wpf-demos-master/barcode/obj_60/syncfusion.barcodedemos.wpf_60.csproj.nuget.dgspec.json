@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj": {}
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj": {}
   },
   "projects": {
-    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj": {
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj",
+        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj",
         "projectName": "syncfusion.barcodedemos.wpfapplication",
-        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj",
+        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj",
         "packagesPath": "C:\\Users\\33616\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\obj_60\\",
+        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\obj_60\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\33616\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj": {
-                "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj"
+              "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj": {
+                "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj"
               },
-              "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj": {
-                "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj"
+              "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj": {
+                "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj"
               }
             }
           }
@@ -214,14 +214,14 @@
         }
       }
     },
-    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj": {
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj",
+        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj",
         "projectName": "syncfusion.barcodedemos.wpf",
-        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj",
+        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj",
         "packagesPath": "C:\\Users\\33616\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\obj_60\\",
+        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\barcode\\obj_60\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\33616\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,8 +238,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj": {
-                "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj"
+              "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj": {
+                "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj"
               }
             }
           }
@@ -429,14 +429,14 @@
         }
       }
     },
-    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj": {
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj",
+        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj",
         "projectName": "syncfusion.demoscommon.wpf",
-        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj",
+        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj",
         "packagesPath": "C:\\Users\\33616\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\obj_60\\",
+        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\application trouver\\wpf-demos-master\\common\\obj_60\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\33616\\AppData\\Roaming\\NuGet\\NuGet.Config",

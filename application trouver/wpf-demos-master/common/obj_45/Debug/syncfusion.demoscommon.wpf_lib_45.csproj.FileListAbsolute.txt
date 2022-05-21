@@ -5,3 +5,10 @@ C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\common\obj_45\
 C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\common\obj_45\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\common\obj_45\Debug\syncfusion.demoscommon.wpf_MarkupCompile.cache
 C:\Users\33616\Desktop\M1\S2\TER\Application WPF\wpf-demos-master\common\obj_45\Debug\syncfusion.demoscommon.wpf_MarkupCompile.lref
+C:\Users\33616\Desktop\M1\S2\TER\WPF application\WPFApps\application trouver\wpf-demos-master\common\obj_45\Debug\syncfusion.demoscommon.wpf_lib_45.csproj.AssemblyReference.cache
+C:\Users\33616\Desktop\M1\S2\TER\WPF application\WPFApps\application trouver\wpf-demos-master\common\obj_45\Debug\Views\ErrorWindow.baml
+C:\Users\33616\Desktop\M1\S2\TER\WPF application\WPFApps\application trouver\wpf-demos-master\common\obj_45\Debug\Views\ErrorWindow.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\WPF application\WPFApps\application trouver\wpf-demos-master\common\obj_45\Debug\Views\SourceCodeTabView.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\WPF application\WPFApps\application trouver\wpf-demos-master\common\obj_45\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\33616\Desktop\M1\S2\TER\WPF application\WPFApps\application trouver\wpf-demos-master\common\obj_45\Debug\syncfusion.demoscommon.wpf_MarkupCompile.cache
+C:\Users\33616\Desktop\M1\S2\TER\WPF application\WPFApps\application trouver\wpf-demos-master\common\obj_45\Debug\syncfusion.demoscommon.wpf_MarkupCompile.lref

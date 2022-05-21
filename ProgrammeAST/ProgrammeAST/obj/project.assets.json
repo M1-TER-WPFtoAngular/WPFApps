@@ -1207,11 +1207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\33616\\source\\repos\\ProgrammeAST\\ProgrammeAST\\ProgrammeAST.csproj",
+      "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\ProgrammeAST\\ProgrammeAST\\ProgrammeAST.csproj",
       "projectName": "ProgrammeAST",
-      "projectPath": "C:\\Users\\33616\\source\\repos\\ProgrammeAST\\ProgrammeAST\\ProgrammeAST.csproj",
+      "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\ProgrammeAST\\ProgrammeAST\\ProgrammeAST.csproj",
       "packagesPath": "C:\\Users\\33616\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\33616\\source\\repos\\ProgrammeAST\\ProgrammeAST\\obj\\",
+      "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\ProgrammeAST\\ProgrammeAST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\33616\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1272,7 +1272,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

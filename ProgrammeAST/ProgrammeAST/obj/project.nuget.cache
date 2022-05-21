@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sIXo91MAkQzve+7jhtrL2e2RSoTqqOMlO+fbKzGyzO9h9AIthxQ/VJ4Zov36dc9Sh9U6GthntXZtj2/4mahztg==",
+  "dgSpecHash": "L9apGt+gkfmUdTaj/t89cRozrNc5t0yL3lD+GYniuTLHAOTh8qjP72I5g5bf3782YZo7w6/Y/WD808VbkNgrzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\33616\\source\\repos\\ProgrammeAST\\ProgrammeAST\\ProgrammeAST.csproj",
+  "projectFilePath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\WPF application\\WPFApps\\ProgrammeAST\\ProgrammeAST\\ProgrammeAST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\33616\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\33616\\.nuget\\packages\\microsoft.codeanalysis.common\\4.1.0\\microsoft.codeanalysis.common.4.1.0.nupkg.sha512",

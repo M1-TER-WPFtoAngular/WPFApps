@@ -1,0 +1,640 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj",
+        "projectName": "syncfusion.barcodedemos.wpfapplication",
+        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_60.csproj",
+        "packagesPath": "C:\\Users\\33616\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\obj_60\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\33616\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj": {
+                "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj"
+              },
+              "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj": {
+                "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj",
+        "projectName": "syncfusion.barcodedemos.wpf",
+        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\syncfusion.barcodedemos.wpf_lib_60.csproj",
+        "packagesPath": "C:\\Users\\33616\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\barcode\\obj_60\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\33616\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj": {
+                "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.19, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfBarcode.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj",
+        "projectName": "syncfusion.demoscommon.wpf",
+        "projectPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\syncfusion.demoscommon.wpf_lib_60.csproj",
+        "packagesPath": "C:\\Users\\33616\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\33616\\Desktop\\M1\\S2\\TER\\Application WPF\\wpf-demos-master\\common\\obj_60\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\33616\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.19, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfBusyIndicator.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfInput.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.FluentLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialDarkBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Black.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019Colorful.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019DarkGray.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrast.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019HighContrastWhite.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.Office2019White.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            },
+            "Syncfusion.Themes.SystemTheme.WPF": {
+              "target": "Package",
+              "version": "[20.1.0.47, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
